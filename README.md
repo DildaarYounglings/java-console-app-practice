@@ -1,1 +1,1 @@
-a java console app that contains a tic tac toe game that suddenly halts
+a java console app that contains a tic tac toe game
